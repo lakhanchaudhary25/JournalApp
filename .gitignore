@@ -1,0 +1,41 @@
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+build/
+
+# Gradle (if you ever use it)
+.gradle/
+build/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Mac system files
+.DS_Store
+
+# Logs
+*.log
+logs/
+
+# Spring Boot
+*.jar
+*.war
+*.ear
+
+# Environment files (important for security later)
+.env
+
+# VS Code (if used)
+.vscode/
+
+# Temporary files
+*.swp
+*.swo
